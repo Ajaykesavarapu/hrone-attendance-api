@@ -1,0 +1,74 @@
+[
+  {
+    "emp_code": "EMP0001",
+    "name": "Asha Rao",
+    "email": "asha@example.com",
+    "department": "Engineering",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-01-05",
+    "created_at": {
+      "$date": "2026-01-05T04:30:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0002",
+    "name": "Vikram Shah",
+    "email": "vikram@example.com",
+    "department": "Engineering",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-07-13",
+    "created_at": {
+      "$date": "2026-07-13T04:00:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0003",
+    "name": "Neha Iyer",
+    "email": "neha@example.com",
+    "department": "Sales",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-02-01",
+    "created_at": {
+      "$date": "2026-02-01T04:30:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0004",
+    "name": "Rohit Das",
+    "email": "rohit@example.com",
+    "department": "Sales",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-02-01",
+    "created_at": {
+      "$date": "2026-02-01T04:31:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0005",
+    "name": "Meera Nair",
+    "email": "meera@example.com",
+    "department": "Support",
+    "shift_start": "22:00",
+    "shift_end": "06:00",
+    "joined_on": "2026-03-10",
+    "created_at": {
+      "$date": "2026-03-10T04:30:00Z"
+    }
+  },
+  {
+    "emp_code": "EMP0006",
+    "name": "Karan Bedi",
+    "email": "karan@example.com",
+    "department": "Support",
+    "shift_start": "09:30",
+    "shift_end": "18:30",
+    "joined_on": "2026-03-10",
+    "created_at": {
+      "$date": "2026-03-10T04:31:00Z"
+    }
+  }
+]

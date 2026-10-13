@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Do NOT publish the original problem statement / kit in the public repo.
+SDT_candidate_kit/
